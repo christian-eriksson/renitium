@@ -2,6 +2,13 @@
 
 Tool to bring up a remote system by unlocking and mounting encrypted drives and start system services.
 
+## Dependencies
+
+You will need to install:
+
+* [jq](https://stedolan.github.io/jq/download/)
+* a ssh client (used to connect to the remote system)
+
 ## Usage
 
 You will probably want to run the application as root, as cryptkeys are usually only readable by root.
