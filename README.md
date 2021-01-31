@@ -1,6 +1,6 @@
 # Renitium
 
-Tool to bring up a remote system by unlocking and mounting encrypted drives and start system services.
+Tool to bring up a remote system by unlocking and mounting encrypted drives and start system services. The use case is where one don't want to store the decryption key on the remote server or you might have a service that fails to start unless the device is mounted.
 
 ## Dependencies
 
